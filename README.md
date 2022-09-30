@@ -19,7 +19,7 @@ A. Corvelo, M. Hallegger, C.W.J. Smith, E. Eyras. (2010). Genome-wide Associatio
 ------------------------------------------
 
 
-### IMPORTANT
+### IMPORTANT:
 
 SVM-BPfinder requires SVMlight, which can be downloaded at:
 ```
@@ -89,14 +89,14 @@ svm_scr - Final BP score using the SVM classifier
     
 ### EXAMPLE:
 
-The command:
+The command
 ``` 
         ./svm_bpfinder.py -i test_A1CF_intron.fa -s Hsap -l 100 -d 10
 ```
 scans the 3'-most 100nts of every sequence contained in the FASTA file named 'test_A1CF_intron.fa', 
 using a human-specific model ('Hsap'), and predicts BPs as close as 10nt from the 3' splice-site.  
 
-The output should be:
+The output should be
 
 ```
 seq_id    agez      ss_dist   bp_seq    bp_scr    y_cont    ppt_off   ppt_len   ppt_scr   svm_scr
