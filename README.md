@@ -19,7 +19,7 @@ A. Corvelo, M. Hallegger, C.W.J. Smith, E. Eyras. (2010). Genome-wide Associatio
 ------------------------------------------
 
 
-#### IMPORTANT
+### IMPORTANT
 
 SVM-BPfinder requires SVMlight, which can be downloaded at:
 ```
@@ -37,7 +37,7 @@ To know more about SVMlight, please visit http://svmlight.joachims.org/
 
 ------------------------------------------
 
-# USAGE:
+### USAGE:
 ```
 svm_bpfinder.py [-h] -i FNAME -s {Hsap,Ptro,Mmul,Mmus,Rnor,Cfam,Btau}
                 [-l MAXSLEN] [-d MINDIST3SS]
