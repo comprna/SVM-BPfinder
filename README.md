@@ -81,10 +81,10 @@ ss_dist - Distance to 3' splice-site
 bp_seq  - BP sequence (9-mer; from -5 to +3 relative to the BP adenine)
 bp_scr  - BP sequence score using a variable order Markov model
 y_cont  - Pyrimidine content between the BP adenine and the 3' splice-site
-        ppt_off - Polypyrimidine tract offset relative to the BP adenine
-        ppt_len - Polypyrimidine tract length
-        ppt_scr - Polypyrimidine tract score
-        svm_scr - Final BP score using the SVM classifier
+ppt_off - Polypyrimidine tract offset relative to the BP adenine
+ppt_len - Polypyrimidine tract length
+ppt_scr - Polypyrimidine tract score
+svm_scr - Final BP score using the SVM classifier
 ```
     
 ### EXAMPLE:
