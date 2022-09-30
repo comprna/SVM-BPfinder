@@ -90,9 +90,11 @@ svm_scr - Final BP score using the SVM classifier
 ### EXAMPLE:
 
 The command
+
 ``` 
-        ./svm_bpfinder.py -i test_A1CF_intron.fa -s Hsap -l 100 -d 10
+./svm_bpfinder.py -i test_A1CF_intron.fa -s Hsap -l 100 -d 10
 ```
+
 scans the 3'-most 100nts of every sequence contained in the FASTA file named 'test_A1CF_intron.fa', 
 using a human-specific model ('Hsap'), and predicts BPs as close as 10nt from the 3' splice-site.  
 
