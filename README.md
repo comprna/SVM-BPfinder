@@ -6,16 +6,17 @@ Andre Corvelo and Eduardo Eyras | Regulatory Genomics @ Universitat Pompeu Fabra
 
 This tool is free for purpose of academic, non-commercial research. The software must not be further distributed without prior permission of the authors.
 
-CONTACTS:
-    acorvelo[at]gmail.com
-    eduardo.eyras[at]gmail.com
-
+###CONTACTS:
+   ``` 
+   acorvelo[at]gmail.com
+   eduardo.eyras[at]gmail.com
+   ```
+   
 REFERENCE:
-    "A. Corvelo, M. Hallegger, C.W.J. Smith, E. Eyras. (2010). Genome-wide Association between Branch Point Properties and Alternative Splicing"   
+    A. Corvelo, M. Hallegger, C.W.J. Smith, E. Eyras. (2010). Genome-wide Association between Branch Point Properties and Alternative Splicing"  
 
-------------------------------------------
 
-# IMPORTANT:
+# IMPORTANT
 
     SVM-BPfinder requires SVMlight, which can be downloaded at:
     	```
