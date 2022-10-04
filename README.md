@@ -9,7 +9,7 @@ This tool is free for purpose of academic, non-commercial research. The software
 ### CONTACTS:
 ``` 
 acorvelo[at]gmail.com
-eduardo.eyras[at]gmail.com
+eduardo.eyras[at]anu.edu.au
 ```
    
 ### REFERENCE:
