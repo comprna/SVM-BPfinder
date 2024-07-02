@@ -1,5 +1,7 @@
 # SVM-BPfinder  - A tool for mammalian BP prediction. 
 
+**Important note: Python 3 code and svm_classify binary for the M series are available here https://github.com/comprna/SVM-BPfinder-3M**
+
 (code also available from https://bitbucket.org/regulatorygenomicsupf/svm-bpfinder)
 
 Andre Corvelo and Eduardo Eyras | Regulatory Genomics @ Universitat Pompeu Fabra, Barcelona, Spain | 2010 
